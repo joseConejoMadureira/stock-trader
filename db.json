@@ -1,0 +1,41 @@
+{
+    "data": {
+      "funds": 9590,
+      "stockPortfolio": [
+        {
+          "id": 1,
+          "name": "BMW",
+          "price": 66,
+          "quantity": 1
+        },
+        {
+          "id": 2,
+          "name": "Google",
+          "price": 300,
+          "quantity": 1
+        }
+      ],
+      "stocks": [
+        {
+          "id": 1,
+          "name": "BMW",
+          "price": 66
+        },
+        {
+          "id": 2,
+          "name": "Google",
+          "price": 300
+        },
+        {
+          "id": 3,
+          "name": "Apple",
+          "price": 191
+        },
+        {
+          "id": 4,
+          "name": "Twitter",
+          "price": 81
+        }
+      ]
+    }
+  }
