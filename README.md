@@ -1,3 +1,5 @@
+# projeto desenvolvido apartir do curso Vue JS 2 - O Guia Completo (incl. Vue Router & Vuex)- Udemy Brasil
+
 # stock-trader
 
 ## Project setup
